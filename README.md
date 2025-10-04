@@ -41,8 +41,10 @@ The program demonstrates basic **Java programming concepts** including loops, co
 3. Run the program: java DrivingSimulationLab
 
 4. Follow the menu prompts and interact with the simulation. Example run:
+   
 
    ------ Car Dashboard ------
+   
 Speed: 0
 Engine: Off
 Gear: P
