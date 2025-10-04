@@ -1,7 +1,5 @@
 # DrivingStimulationLab-Project
 
-# Driving Simulation Lab
-
 ## Overview
 `DrivingSimulationLab` is a simple **text-based car simulation** program written in Java.  
 It allows the user to interact with a virtual car by performing actions such as turning the engine on/off, changing gears, accelerating, braking, and exiting the simulation.
